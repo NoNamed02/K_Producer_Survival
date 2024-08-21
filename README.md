@@ -7,6 +7,6 @@
 
 <div style="text-align: center;">
   <a href="https://youtu.be/ruRiqBcS_QI">
-    <img src="http://img.youtu.be/ruRiqBcS_QI/0.jpg" alt="Video Label">
+    <img src="http://img.youtu.be/vi/ruRiqBcS_QI/0.jpg" alt="Video Label">
   </a>
 </div>
