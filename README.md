@@ -4,4 +4,9 @@
 <2024 Gamejam, team gamma><br>
 20240804 ~ 20240806
 <br>
-https://youtu.be/ruRiqBcS_QI
+
+<div style="text-align: center;">
+  <a href="https://youtu.be/ruRiqBcS_QI">
+    <img src="http://img.youtu.be/ruRiqBcS_QI/0.jpg" alt="Video Label">
+  </a>
+</div>
